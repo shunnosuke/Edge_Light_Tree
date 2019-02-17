@@ -13,6 +13,7 @@ _autosave-*
 *-rescue.lib
 *-save.pro
 *-save.kicad_pcb
+Temporarily saved.kicad_pcb
 
 # Netlist files (exported from Eeschema)
 *.net
